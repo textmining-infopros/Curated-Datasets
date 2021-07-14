@@ -36,3 +36,17 @@ Corpus data may be downloaded from the following shared Dropbox link:
 # CD 7
 
 [Constellate](https://constellate.org/builder/?start=1900&end=2021)
+
+# CD 8
+
+[Newspapers & Magazines](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826271)
+[Linguistic Corpora](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826387)
+[Scholarly Journals](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826280)
+[Data Repositories](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826479)
+[Social Media & Web](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826401)
+[Citations & Metadata](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826365)
+[Government Documents](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826380)
+[Historical & Archives](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826471)
+[Media](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826494)
+[Literature](https://guides.lib.berkeley.edu/c.php?g=491766&p=7826391)
+[HathiTrust Research Center](https://guides.lib.berkeley.edu/text-mining/htrc)
