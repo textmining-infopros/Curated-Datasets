@@ -30,3 +30,7 @@ Each link goes to a Dropbox item that has a download link. Download the file to 
 # CD 4
 
 [Data World](https://data.world/datasets/text-mining)
+
+# CD 5
+
+[Seattle Library (2015-2021)](https://github.com/melaniewalsh/Data-Analysis-with-Pandas/blob/main/Seattle-Library_2015-2021.csv)
