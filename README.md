@@ -13,8 +13,6 @@ Corpus data may be downloaded from the following shared Dropbox link:
 * [Tamilnet](https://www.dropbox.com/s/dtqnzcbkcp07u5e/tamilnet-tapi.csv?dl=0) &mdash; A sample of news stories from the website Tamilnet.
 * [Anphoblach](https://www.dropbox.com/s/lrmt92q59npx0x5/anphoblacht-tapi.csv?dl=0) &mdash; A sample of news stories from the website Anphoblacht.
 
-Each link goes to a Dropbox item that has a download link. Download the file to your desktop.
-
 # CD 2
 
 [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
