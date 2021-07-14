@@ -1,6 +1,6 @@
 # Curated Datasets (CD)
 
-This repository shows some of the additional datasets which are in open-access and can be used to practice text mining.
+This repository contains some of the additional datasets which are in open-access and can be used to practice text mining.
 
 # CD 1
 
