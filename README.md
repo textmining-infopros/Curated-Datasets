@@ -8,10 +8,6 @@ Corpus data files are `CSV` files in a specific format &mdash; __machine learnin
 
 Corpus data may be downloaded from the following shared Dropbox link:
 
-* [Corpora Directory](https://www.dropbox.com/sh/t6im8ni921gxinr/AADL_-VPetjmDIMO3vYAFvNRa?dl=0)  
-
-Additionally, these files may be downloaded individually:
-
 * [Wine Reviews](https://www.dropbox.com/s/0rszsd6t30c0n3y/winereviews-tapi.csv?dl=0) &mdash; A collection of terse wine reviews.
 * [JSTOR Hyperparameter](https://www.dropbox.com/s/uoa8191px405fj0/jstor_hyperparameter-tapi.csv?dl=0) &mdash; Abstracts from a JSTOR search for "hyperparameter." 
 * [Tamilnet](https://www.dropbox.com/s/dtqnzcbkcp07u5e/tamilnet-tapi.csv?dl=0) &mdash; A sample of news stories from the website Tamilnet.
