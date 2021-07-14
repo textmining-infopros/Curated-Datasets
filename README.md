@@ -34,3 +34,7 @@ Each link goes to a Dropbox item that has a download link. Download the file to 
 # CD 6 
 
 [Repository of datasets broadly related to culture and the humanities](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html)
+
+# CD 7
+
+[Constellate](https://constellate.org/builder/?start=1900&end=2021)
