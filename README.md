@@ -8,7 +8,7 @@ Corpus data files are `CSV` files in a specific format &mdash; __machine learnin
 
 Corpus data may be downloaded from the following shared Dropbox link:
 
-* [TAPI Corpora Directory](https://www.dropbox.com/sh/t6im8ni921gxinr/AADL_-VPetjmDIMO3vYAFvNRa?dl=0)  
+* [Corpora Directory](https://www.dropbox.com/sh/t6im8ni921gxinr/AADL_-VPetjmDIMO3vYAFvNRa?dl=0)  
 
 Additionally, these files may be downloaded individually:
 
