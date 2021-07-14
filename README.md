@@ -34,3 +34,7 @@ Each link goes to a Dropbox item that has a download link. Download the file to 
 # CD 5
 
 [Seattle Library (2015-2021)](https://github.com/melaniewalsh/Data-Analysis-with-Pandas/blob/main/Seattle-Library_2015-2021.csv)
+
+# CD 6 
+
+[Repository of datasets broadly related to culture and the humanities](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html)
