@@ -92,7 +92,7 @@ Examples will not be shown here since that is taken care of in the respective pa
 [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/) include a handful of different movie review data sets. Below is the code chuck necessary to load in the data sets.
 
 # CD 12
-## Github packages
+## Github packages (R Language)
 ### appa
 
 This [appa](https://github.com/averyrobbins1/appa) package contains
@@ -361,7 +361,7 @@ Examples:
 
 # CD 13
 
-## CRAN packages
+## CRAN packages (R Language)
 
 ### janeaustenr
 
