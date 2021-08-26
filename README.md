@@ -813,4 +813,4 @@ Further information and examples can be found
 
 # CD 14
 
-[Google Datasets](https://datasetsearch.research.google.com/search?query=text%20mining&docid=L2cvMTFsX2Z4MDRoZA%3D%3D)
+[Google Datasets](https://datasetsearch.research.google.com/search?query=text%20mining&docid=L2cvMTFsX2Z4MDRoZA%3D%3D) a free tool for searching 25 million publicly available datasets.
