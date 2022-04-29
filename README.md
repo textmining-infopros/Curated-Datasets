@@ -814,3 +814,7 @@ Further information and examples can be found
 # CD 14
 
 [Google Datasets](https://datasetsearch.research.google.com/search?query=text%20mining&docid=L2cvMTFsX2Z4MDRoZA%3D%3D) a free tool for searching 25 million publicly available datasets.
+
+# CD 15
+
+[Library of Congress](https://www.loc.gov/collections/selected-datasets/?fa=contributor:by+the+people+%28program%29) selected datasets that were transcribed by public through [crowdsourcing](https://crowd.loc.gov/). 
