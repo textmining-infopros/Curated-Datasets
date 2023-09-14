@@ -817,4 +817,10 @@ Further information and examples can be found
 
 # CD 15
 
-[Library of Congress](https://www.loc.gov/collections/selected-datasets/?fa=contributor:by+the+people+%28program%29) selected datasets that were transcribed by public through [crowdsourcing](https://crowd.loc.gov/). 
+[Library of Congress](https://www.loc.gov/collections/selected-datasets/?fa=contributor:by+the+people+%28program%29) selected datasets that were transcribed by public through [crowdsourcing](https://crowd.loc.gov/).
+
+# CD 16
+
+[HathiTrust Extracted Features Dataset](https://analytics.dev.htrc.indiana.edu/datasets#top): HTRC releases research datasets to facilitate text analysis using the HathiTrust Digital Library. While copyright-protected texts are not available for download from HathiTrust, fruitful research can still be performed on the basis of non-consumptive analysis of features extracted from full text. These features include volume-level metadata, page-level metadata, part-of-speech-tagged tokens, and token counts. Additionally, HTRC has partnered with advanced researchers to release a derived dataset, Word Frequencies in English-Language Literature, 1700-1922.
+
+
