@@ -823,4 +823,6 @@ Further information and examples can be found
 
 [HathiTrust Extracted Features Dataset](https://analytics.dev.htrc.indiana.edu/datasets#top): HTRC releases research datasets to facilitate text analysis using the HathiTrust Digital Library. While copyright-protected texts are not available for download from HathiTrust, fruitful research can still be performed on the basis of non-consumptive analysis of features extracted from full text. These features include volume-level metadata, page-level metadata, part-of-speech-tagged tokens, and token counts. Additionally, HTRC has partnered with advanced researchers to release a derived dataset, Word Frequencies in English-Language Literature, 1700-1922.
 
+Using Extracted Features API to explore the HTRC data: https://htrc.github.io/torchlite-handbook/ef.html
+
 
